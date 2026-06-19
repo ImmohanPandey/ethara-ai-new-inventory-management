@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+
+.git
+.gitignore
+
+.idea
+.vscode
+
+Dockerfile
+structure.txt
+test_db.py
